@@ -1,0 +1,2 @@
+questions for practical 
+# practicals
